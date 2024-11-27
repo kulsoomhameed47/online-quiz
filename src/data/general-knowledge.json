@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is 2 + 2?",
+    "options": [
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true },
+      { "text": "5", "isCorrect": false },
+      { "text": "6", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      { "text": "Berlin", "isCorrect": false },
+      { "text": "Madrid", "isCorrect": false },
+      { "text": "Paris", "isCorrect": true },
+      { "text": "London", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      { "text": "Alexander Graham Bell", "isCorrect": true },
+      { "text": "Thomas Edison", "isCorrect": false },
+      { "text": "Nikola Tesla", "isCorrect": false },
+      { "text": "Albert Einstein", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the largest planet in the solar system?",
+    "options": [
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": true },
+      { "text": "Saturn", "isCorrect": false },
+      { "text": "Mars", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": [
+      { "text": "90°C", "isCorrect": false },
+      { "text": "100°C", "isCorrect": true },
+      { "text": "110°C", "isCorrect": false },
+      { "text": "80°C", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who was the first president of the USA?",
+    "options": [
+      { "text": "George Washington", "isCorrect": true },
+      { "text": "Abraham Lincoln", "isCorrect": false },
+      { "text": "Thomas Jefferson", "isCorrect": false },
+      { "text": "John Adams", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the smallest continent?",
+    "options": [
+      { "text": "Africa", "isCorrect": false },
+      { "text": "Asia", "isCorrect": false },
+      { "text": "Australia", "isCorrect": true },
+      { "text": "Europe", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      { "text": "Vincent van Gogh", "isCorrect": false },
+      { "text": "Leonardo da Vinci", "isCorrect": true },
+      { "text": "Pablo Picasso", "isCorrect": false },
+      { "text": "Claude Monet", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which country is the Eiffel Tower located in?",
+    "options": [
+      { "text": "Germany", "isCorrect": false },
+      { "text": "Italy", "isCorrect": false },
+      { "text": "France", "isCorrect": true },
+      { "text": "Spain", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": [
+      { "text": "Lion", "isCorrect": false },
+      { "text": "Cheetah", "isCorrect": true },
+      { "text": "Tiger", "isCorrect": false },
+      { "text": "Elephant", "isCorrect": false }
+    ]
+  }
+]
